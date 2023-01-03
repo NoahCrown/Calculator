@@ -1,4 +1,5 @@
 # Calculator App 
+Calculator is a beautifully designed app that offers both basic and complex mathematical operations.
 
 * HTML
 * CSS
